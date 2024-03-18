@@ -1,0 +1,24 @@
+.slideImage1{
+    background-image: url(../../../assets/img/interior-gery-living-room.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.slideImage2{
+    background-image: url(../../../assets/img/jolshiri.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.slideImage3{
+    background-image: url(../../../assets/img/jolshiri3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.slideImage4{
+    background-image: url(../../../assets/img/jolshiri2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
